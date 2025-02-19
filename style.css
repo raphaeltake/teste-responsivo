@@ -174,4 +174,8 @@ footer {
     text-align: center;
     gap: 0.2rem;
   }
+
+  main{
+    max-width: 43rem;
+  }
 }
